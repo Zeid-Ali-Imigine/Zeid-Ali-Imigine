@@ -1,6 +1,6 @@
 # 👋 Bienvenue dans mon univers de développement
 
-Bonjour, je suis **Zeini**, un développeur passionné par les technologies. Je considère la programmation comme une forme d’art moderne.
+Bonjour, je suis **zeid**, un développeur passionné par les technologies. Je considère la programmation comme une forme d’art moderne.
 
 ---
 
@@ -34,4 +34,4 @@ Bonjour, je suis **Zeini**, un développeur passionné par les technologies. Je 
 ## ⭐ Merci pour votre visite
 
 📫 N’hésitez pas à me contacter sur GitHub ou par email.  
-[Suivez-moi sur GitHub](https://github.com/Zeini-23025)
+[Suivez-moi sur GitHub](https://github.com/Zeid-Ali-Imigine)
